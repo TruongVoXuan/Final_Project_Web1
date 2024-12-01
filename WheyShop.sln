@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WheyShop", "WheyShop\WheyShop.csproj", "{6D8965A1-D12D-429C-BD63-3FCC2E2DA892}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D8965A1-D12D-429C-BD63-3FCC2E2DA892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D8965A1-D12D-429C-BD63-3FCC2E2DA892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D8965A1-D12D-429C-BD63-3FCC2E2DA892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D8965A1-D12D-429C-BD63-3FCC2E2DA892}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CECC03B-8C40-4926-B936-DB4C4B1E76AC}
+	EndGlobalSection
+EndGlobal
